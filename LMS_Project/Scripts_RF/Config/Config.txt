@@ -1,0 +1,3 @@
+*** Variables ***
+${g_browser}      Chrome
+${g_url}          http://172.30.148.55/JavaMobileTest/TestPage.aspx#
